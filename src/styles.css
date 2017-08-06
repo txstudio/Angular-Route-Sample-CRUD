@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+.header {
+    padding:20px;
+}
+
+.frameset-query, .frameset-content {
+    float:left;    
+}
+.frameset-query,
+.frameset-list,
+.frameset-detail {
+    padding:15px;
+}
+
+.frameset-body {
+}
+
+.frameset-query {
+    width:300px;
+    background: #eee;
+    text-align: center;
+}
+.frameset-list {
+    width:840px;
+}
+
+.form-btn-panel {
+    text-align: center;
+    padding:20px 0;
+}
